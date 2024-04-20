@@ -29,4 +29,4 @@ Este código realiza os seguintes passos:
 3. Aplica um limiar para binarização usando `cv2.threshold`, onde pixels com valores abaixo de 127 se tornam pretos (0) e acima se tornam brancos (255).
 4. Exibe as imagens usando `cv2.imshow`.
 
-Lembre-se de substituir `'caminho/para/a/imagem.jpg'` pelo caminho correto da sua imagem. 
+Lembre-se de substituir `'caminho/para/a/imagem.jpg'` pelo caminho correto da sua imagem.
